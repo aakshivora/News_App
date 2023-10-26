@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+It is a daily and handy News Update Web Appication made using React.js Framework that is userfreindly and provides user with vrious options to navigate and read news of their own choice!
+![image](https://github.com/aakshivora/News_App/assets/72702098/13d76271-ddae-4982-acc4-b5ebbdfcaf17)
+
+![image](https://github.com/aakshivora/News_App/assets/72702098/3ee58372-3de5-4067-a914-0915afb160e7)
+
+
